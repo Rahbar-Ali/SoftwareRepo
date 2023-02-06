@@ -1,4 +1,4 @@
-# SoftwareRepo
+# Software Repository (Task Given by Respected Professor, Dongsin Kim
 To run the program follow these step:
 1. Make sure you have required dependencies installed. such as python 3.x
 2. Clone the repository to your local machine by running 'git clone <repository>' I USED MY PERSONAL GIT REPOSITORY HOME-REPAIR-SYSTEM as My System is not powerfull enought to handle BIG repositories
